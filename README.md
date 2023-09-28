@@ -1,6 +1,8 @@
 # Prerequisites
-- Anchor 0.26.0 or higher
-- `avm install 0.26.0 && avm use 0.26.0`
+- Anchor 0.28.0
+    - `avm install 0.28.0 && avm use 0.28.0`
+- solana-cli 1.14.*
+    - `solana-install init 1.14.28`
 
 # Build and run the exploits
 - `anchor build`
